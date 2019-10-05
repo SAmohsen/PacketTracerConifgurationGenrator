@@ -1,0 +1,8 @@
+en 
+conf t  
+router rip
+network 
+exit
+exit
+exit
+

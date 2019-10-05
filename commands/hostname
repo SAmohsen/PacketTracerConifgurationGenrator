@@ -1,0 +1,6 @@
+en 
+conf t 
+hostname 
+exit
+exit
+

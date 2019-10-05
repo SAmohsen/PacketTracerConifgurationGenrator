@@ -1,0 +1,9 @@
+en
+conf t 
+interface 
+ip address 
+no shutdown 
+exit 
+exit
+exit
+exit

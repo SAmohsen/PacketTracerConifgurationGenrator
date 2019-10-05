@@ -1,0 +1,7 @@
+en
+conf t
+router ospf 
+network
+end
+exit
+
